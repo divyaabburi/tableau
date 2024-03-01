@@ -49,7 +49,7 @@ The analysis yields the following insights:
 
 To replicate the analysis or explore the data further, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/pizza-store-sales-analysis.git`
+1. Clone this repository: `https://git@github.com:divyaabburi/tableau.git`
 2. Navigate to the project directory: `cd pizza-store-sales-analysis`
 3. Install any required dependencies (if applicable).
 4. Explore the Jupyter notebooks or scripts in the `analysis` directory to understand the analysis workflow.
